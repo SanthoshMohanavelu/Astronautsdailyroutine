@@ -10,7 +10,7 @@ function preload() {
   eat = loadAnimation("eat1.png", "eat2.png");  
   drink = loadAnimation("drink1.png", "drink2.png");
   bath = loadAnimation("bath1.png", "bath2.png");
-  move = loadAnimation("move.png", "move1.png");
+  move = loadAnimation("move1.png", "move1.png");
 }
 
 function setup() {
